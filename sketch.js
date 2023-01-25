@@ -126,7 +126,7 @@ if (neighbors.length > 0) {
 
         if (this.visited) {
             noStroke();
-        fill(255, 0, 255, 100);
+        fill(41, 235, 255, 100);
         rect(x,y,w,w);
         }
     }
